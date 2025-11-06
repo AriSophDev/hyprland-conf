@@ -1,0 +1,260 @@
+[2025-11-05 17:01:07.419] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-11-05 17:01:07.422] [info]  🚀 UPSCAYL EXEC PATH:  /opt/Upscayl/resources/bin/upscayl-bin
+[2025-11-05 17:01:07.422] [info]  🚀 MODELS PATH:  /opt/Upscayl/resources/models
+[2025-11-05 17:01:07.423] [info]  🚃 App Path:  /opt/Upscayl/resources/app.asar
+[2025-11-05 17:01:08.007] [info]  💻 System Info: {"platform":"linux","release":"6.17.1-300.fc43.x86_64","arch":"x64","model":"Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz","cpuCount":6,"gpu":{"active":true,"cudaComputeCapabilityMajor":0,"deviceId":16018,"gpuPreference":0,"vendorId":32902}}
+[2025-11-05 17:01:27.066] [info]  🔄 Resetting image paths
+[2025-11-05 17:01:30.995] [info]  🖼️ Updating Image Path:  /home/topi/Imágenes/sabequeeugostodevoce.webp
+[2025-11-05 17:01:30.996] [info]  📄 Selected File Path:  /home/topi/Imágenes/sabequeeugostodevoce.webp
+[2025-11-05 17:01:30.997] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/topi/Imágenes/sabequeeugostodevoce.webp
+[2025-11-05 17:01:30.997] [info]  🖼 Selected Image Path:  /home/topi/Imágenes/sabequeeugostodevoce.webp
+[2025-11-05 17:01:30.998] [info]  📁 Selected Image Directory:  /home/topi/Imágenes
+[2025-11-05 17:01:30.999] [info]  🖼 imagePath:  /home/topi/Imágenes/sabequeeugostodevoce.webp
+[2025-11-05 17:01:30.999] [info]  🔤 Extension:  webp
+[2025-11-05 17:01:31.004] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/topi/Imágenes/sabequeeugostodevoce.webp
+[2025-11-05 17:01:36.753] [info]  🔄 Resetting Upscaled Image Path
+[2025-11-05 17:01:36.754] [info]  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/topi/Imágenes","fileNameWithExt":"sabequeeugostodevoce.webp","outputDir":"/home/topi/Imágenes","outFile":"/home/topi/Imágenes/sabequeeugostodevoce_upscayl_4x_upscayl-standard-4x.png","fileName":"sabequeeugostodevoce","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-11-05 17:01:36.754] [info]  📢 Upscayl Command:  [
+  '-i',
+  '/home/topi/Imágenes/sabequeeugostodevoce.webp',
+  '-o',
+  '/home/topi/Imágenes/sabequeeugostodevoce_upscayl_4x_upscayl-standard-4x.png',
+  '-m',
+  '/opt/Upscayl/resources/models',
+  '-n',
+  'upscayl-standard-4x',
+  '-f',
+  'png',
+  '-c',
+  '0'
+]
+[2025-11-05 17:01:36.762] [info]  👶 Updating Child Processes:  {"binary":"/opt/Upscayl/resources/bin/upscayl-bin","args":["/opt/Upscayl/resources/bin/upscayl-bin","-i","/home/topi/Imágenes/sabequeeugostodevoce.webp","-o","/home/topi/Imágenes/sabequeeugostodevoce_upscayl_4x_upscayl-standard-4x.png","-m","/opt/Upscayl/resources/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-11-05 17:01:36.763] [info]  🛑 Updating Stopped:  false
+[2025-11-05 17:01:36.764] [info]  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-11-05 17:01:36.764] [info]  🏁 UPSCAYL
+[2025-11-05 17:01:36.765] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"upscayl-standard-4x","gpuId":null,"saveImageAs":"png","inputDir":"/home/topi/Imágenes","fileNameWithExt":"sabequeeugostodevoce.webp","outputDir":"/home/topi/Imágenes","outFile":"/home/topi/Imágenes/sabequeeugostodevoce_upscayl_4x_upscayl-standard-4x.png","fileName":"sabequeeugostodevoce","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2025-11-05 17:01:36.769] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/topi/Imágenes/sabequeeugostodevoce.webp,-o,/home/topi/Imágenes/sabequeeugostodevoce_upscayl_4x_upscayl-standard-4x.png,-m,/opt/Upscayl/resources/models,-n,upscayl-standard-4x,-f,png,-c,0
+[2025-11-05 17:01:36.770] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/opt/Upscayl/resources/bin/upscayl-bin","args":["/opt/Upscayl/resources/bin/upscayl-bin","-i","/home/topi/Imágenes/sabequeeugostodevoce.webp","-o","/home/topi/Imágenes/sabequeeugostodevoce_upscayl_4x_upscayl-standard-4x.png","-m","/opt/Upscayl/resources/models","-n","upscayl-standard-4x","-f","png","-c","0"]}
+[2025-11-05 17:01:36.770] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2025-11-05 17:01:36.770] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-11-05 17:01:36.771] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2025-11-05 17:01:36.796] [info]  [0 Intel(R) UHD Graphics 630 (CFL GT2)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  subgroup=8  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-11-05 17:01:36.797] [info]  🎒 BACKEND REPORTED:  [0 Intel(R) UHD Graphics 630 (CFL GT2)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  subgroup=8  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-11-05 17:01:36.799] [info]  🚧 UPSCAYL_PROGRESS:  [0 Intel(R) UHD Graphics 630 (CFL GT2)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[1 llvmpipe (LLVM 21.1.2, 256 bits)]  subgroup=8  basic=1  vote=1  ballot=1  shuffle=1
+
+[2025-11-05 17:01:55.920] [info]  0,00%
+
+[2025-11-05 17:01:55.922] [info]  🎒 BACKEND REPORTED:  0,00%
+
+[2025-11-05 17:01:55.923] [info]  🚧 UPSCAYL_PROGRESS:  0,00%
+
+[2025-11-05 17:02:12.076] [info]  3,57%
+
+[2025-11-05 17:02:12.078] [info]  🎒 BACKEND REPORTED:  3,57%
+
+[2025-11-05 17:02:12.081] [info]  🚧 UPSCAYL_PROGRESS:  3,57%
+
+[2025-11-05 17:02:28.201] [info]  7,14%
+
+[2025-11-05 17:02:28.202] [info]  🎒 BACKEND REPORTED:  7,14%
+
+[2025-11-05 17:02:28.206] [info]  🚧 UPSCAYL_PROGRESS:  7,14%
+
+[2025-11-05 17:02:44.197] [info]  10,71%
+
+[2025-11-05 17:02:44.198] [info]  🎒 BACKEND REPORTED:  10,71%
+
+[2025-11-05 17:02:44.201] [info]  🚧 UPSCAYL_PROGRESS:  10,71%
+
+[2025-11-05 17:03:00.177] [info]  14,29%
+
+[2025-11-05 17:03:00.178] [info]  🎒 BACKEND REPORTED:  14,29%
+
+[2025-11-05 17:03:00.181] [info]  🚧 UPSCAYL_PROGRESS:  14,29%
+
+[2025-11-05 17:03:16.298] [info]  17,86%
+
+[2025-11-05 17:03:16.300] [info]  🎒 BACKEND REPORTED:  17,86%
+
+[2025-11-05 17:03:16.304] [info]  🚧 UPSCAYL_PROGRESS:  17,86%
+
+[2025-11-05 17:03:24.676] [info]  21,43%
+
+[2025-11-05 17:03:24.677] [info]  🎒 BACKEND REPORTED:  21,43%
+
+[2025-11-05 17:03:24.680] [info]  🚧 UPSCAYL_PROGRESS:  21,43%
+
+[2025-11-05 17:03:40.718] [info]  25,00%
+
+[2025-11-05 17:03:40.719] [info]  🎒 BACKEND REPORTED:  25,00%
+
+[2025-11-05 17:03:40.723] [info]  🚧 UPSCAYL_PROGRESS:  25,00%
+
+[2025-11-05 17:03:56.768] [info]  28,57%
+
+[2025-11-05 17:03:56.769] [info]  🎒 BACKEND REPORTED:  28,57%
+
+[2025-11-05 17:03:56.772] [info]  🚧 UPSCAYL_PROGRESS:  28,57%
+
+[2025-11-05 17:04:12.914] [info]  32,14%
+
+[2025-11-05 17:04:12.916] [info]  🎒 BACKEND REPORTED:  32,14%
+
+[2025-11-05 17:04:12.920] [info]  🚧 UPSCAYL_PROGRESS:  32,14%
+
+[2025-11-05 17:04:28.862] [info]  35,71%
+
+[2025-11-05 17:04:28.863] [info]  🎒 BACKEND REPORTED:  35,71%
+
+[2025-11-05 17:04:28.866] [info]  🚧 UPSCAYL_PROGRESS:  35,71%
+
+[2025-11-05 17:04:44.877] [info]  39,29%
+
+[2025-11-05 17:04:44.878] [info]  🎒 BACKEND REPORTED:  39,29%
+
+[2025-11-05 17:04:44.882] [info]  🚧 UPSCAYL_PROGRESS:  39,29%
+
+[2025-11-05 17:05:00.943] [info]  42,86%
+
+[2025-11-05 17:05:00.945] [info]  🎒 BACKEND REPORTED:  42,86%
+
+[2025-11-05 17:05:00.948] [info]  🚧 UPSCAYL_PROGRESS:  42,86%
+
+[2025-11-05 17:05:09.236] [info]  46,43%
+
+[2025-11-05 17:05:09.237] [info]  🎒 BACKEND REPORTED:  46,43%
+
+[2025-11-05 17:05:09.240] [info]  🚧 UPSCAYL_PROGRESS:  46,43%
+
+[2025-11-05 17:05:25.276] [info]  50,00%
+
+[2025-11-05 17:05:25.277] [info]  🎒 BACKEND REPORTED:  50,00%
+
+[2025-11-05 17:05:25.281] [info]  🚧 UPSCAYL_PROGRESS:  50,00%
+
+[2025-11-05 17:05:41.217] [info]  53,57%
+
+[2025-11-05 17:05:41.218] [info]  🎒 BACKEND REPORTED:  53,57%
+
+[2025-11-05 17:05:41.222] [info]  🚧 UPSCAYL_PROGRESS:  53,57%
+
+[2025-11-05 17:05:57.242] [info]  57,14%
+
+[2025-11-05 17:05:57.244] [info]  🎒 BACKEND REPORTED:  57,14%
+
+[2025-11-05 17:05:57.247] [info]  🚧 UPSCAYL_PROGRESS:  57,14%
+
+[2025-11-05 17:06:13.374] [info]  60,71%
+
+[2025-11-05 17:06:13.376] [info]  🎒 BACKEND REPORTED:  60,71%
+
+[2025-11-05 17:06:13.379] [info]  🚧 UPSCAYL_PROGRESS:  60,71%
+
+[2025-11-05 17:06:29.398] [info]  64,29%
+
+[2025-11-05 17:06:29.400] [info]  🎒 BACKEND REPORTED:  64,29%
+
+[2025-11-05 17:06:29.404] [info]  🚧 UPSCAYL_PROGRESS:  64,29%
+
+[2025-11-05 17:06:45.384] [info]  67,86%
+
+[2025-11-05 17:06:45.385] [info]  🎒 BACKEND REPORTED:  67,86%
+
+[2025-11-05 17:06:45.388] [info]  🚧 UPSCAYL_PROGRESS:  67,86%
+
+[2025-11-05 17:06:53.778] [info]  71,43%
+
+[2025-11-05 17:06:53.780] [info]  🎒 BACKEND REPORTED:  71,43%
+
+[2025-11-05 17:06:53.783] [info]  🚧 UPSCAYL_PROGRESS:  71,43%
+
+[2025-11-05 17:07:04.940] [info]  75,00%
+
+[2025-11-05 17:07:04.941] [info]  🎒 BACKEND REPORTED:  75,00%
+
+[2025-11-05 17:07:04.945] [info]  🚧 UPSCAYL_PROGRESS:  75,00%
+
+[2025-11-05 17:07:15.987] [info]  78,57%
+
+[2025-11-05 17:07:15.989] [info]  🎒 BACKEND REPORTED:  78,57%
+
+[2025-11-05 17:07:15.992] [info]  🚧 UPSCAYL_PROGRESS:  78,57%
+
+[2025-11-05 17:07:27.038] [info]  82,14%
+
+[2025-11-05 17:07:27.039] [info]  🎒 BACKEND REPORTED:  82,14%
+
+[2025-11-05 17:07:27.043] [info]  🚧 UPSCAYL_PROGRESS:  82,14%
+
+[2025-11-05 17:07:38.162] [info]  85,71%
+
+[2025-11-05 17:07:38.164] [info]  🎒 BACKEND REPORTED:  85,71%
+
+[2025-11-05 17:07:38.168] [info]  🚧 UPSCAYL_PROGRESS:  85,71%
+
+[2025-11-05 17:07:49.202] [info]  89,29%
+
+[2025-11-05 17:07:49.204] [info]  🎒 BACKEND REPORTED:  89,29%
+
+[2025-11-05 17:07:49.208] [info]  🚧 UPSCAYL_PROGRESS:  89,29%
+
+[2025-11-05 17:08:00.291] [info]  92,86%
+
+[2025-11-05 17:08:00.292] [info]  🎒 BACKEND REPORTED:  92,86%
+
+[2025-11-05 17:08:00.295] [info]  🚧 UPSCAYL_PROGRESS:  92,86%
+
+[2025-11-05 17:08:05.731] [info]  96,43%
+
+[2025-11-05 17:08:05.732] [info]  🎒 BACKEND REPORTED:  96,43%
+
+[2025-11-05 17:08:05.736] [info]  🚧 UPSCAYL_PROGRESS:  96,43%
+
+[2025-11-05 17:08:07.220] [info]  100.00%
+
+🙌 Upscayled Successfully!
+
+[2025-11-05 17:08:07.221] [info]  🎒 BACKEND REPORTED:  100.00%
+
+🙌 Upscayled Successfully!
+
+[2025-11-05 17:08:07.222] [info]  🚧 UPSCAYL_PROGRESS:  100.00%
+
+🙌 Upscayled Successfully!
+
+[2025-11-05 17:08:07.432] [info]  💯 Done upscaling
+[2025-11-05 17:08:07.450] [info]  🎒 BACKEND REPORTED:  💯 Done upscaling
+[2025-11-05 17:08:07.450] [info]  upscaledImagePath:  /home/topi/Imágenes/sabequeeugostodevoce_upscayl_4x_upscayl-standard-4x.png
+[2025-11-05 17:08:07.450] [info]  💯 UPSCAYL_DONE:  /home/topi/Imágenes/sabequeeugostodevoce_upscayl_4x_upscayl-standard-4x.png

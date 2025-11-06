@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:path=/home/topi/.cache/ibus/dbus-Er89nDmr,guid=c93c0aaf71a5d4df8fe2287c690bc1ab
+IBUS_DAEMON_PID=1846
